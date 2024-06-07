@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee 001</title>
+</head>
+<body>
+    <h1>员工001档案</h1>
+    <p>姓名：张三</p>
+    <p>职位：软件工程师</p>
+    <p>部门：研发部</p>
+    <!-- 其他员工信息 -->
+</body>
+</html>
